@@ -42,6 +42,10 @@ The model successfully classifies potato diseases with 99% accuracy, demonstrati
 - Experiment with different model architectures for potentially better performance.
 - Deploy the model as a web or mobile application for real-time disease detection.
 
+  
+## 🎥 Final Presentation
+Watch the final presentation video [here](https://www.linkedin.com/posts/prakash-p-b90262176_deeplearning-machinelearning-datascience-activity-7207775867572277248--W5T?utm_source=share&utm_medium=member_desktop).
+
 
 ## 🙌 Credits
 - [PlantVillage Dataset](https://www.kaggle.com/arjuntejaswi/plant-village)
